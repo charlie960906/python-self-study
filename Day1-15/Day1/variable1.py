@@ -1,0 +1,9 @@
+"""
+變數保存數據進行加減乘除
+"""
+a=123
+b=12
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
