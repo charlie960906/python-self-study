@@ -10,5 +10,5 @@
 進行py的第一支程式HELLO WORLD
 #### 變數
 變數的使用
-variable1*變數保存數據進行加減乘除*
-variable2*使用type()檢查變數類型*
+-variable1*變數保存數據進行加減乘除*
+-variable2*使用type()檢查變數類型*
