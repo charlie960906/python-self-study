@@ -15,4 +15,6 @@
 - Variable4:*賦值運算子練習*
 - Variable5:*比較運算子&邏輯運算子練習*
 ##### 題目練習:
-- temperature_conversion
+- temperature_conversion:*華氏溫度轉攝氏溫度轉換*
+- calculate_circle:*圓的半徑計算計算週長和面積*
+- year_judgment:*輸入年份判斷是不是閏年*
