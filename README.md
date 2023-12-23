@@ -3,7 +3,7 @@
 >
 >*在這過程中的python程式放在上方資料夾中
 
-## First Day
+### First Day
 **安裝環境**
 第一天安裝環境我選擇VScode當作我的編譯器，因為在我可以同步更新到Github上，使用上我也比較習慣。
 - 進行py的第一支程式"Hello World"
