@@ -54,8 +54,16 @@
 - [while3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while3.py):*break練習*
 - [while4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while4.py):*使用else*
 - [while5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while5.py):*猜數字遊戲*
-
+a
 #### 題目練習:
 - [common_factors_common_multiples]():*找最小公因數和最大公倍數*
 - [prime_number_judgment]():*質數判斷*
--
+- [print_triangle]():*打印三角形*
+
+### 建構程式邏輯
+> 經典題目練習
+#### 題目練習:
+- [find_the number_of_daffodils]():*尋找水仙花數*
+- [reverse_of_positive_integer](:*正整數反轉*)
+- 
+- 
