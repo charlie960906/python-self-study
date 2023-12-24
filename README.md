@@ -5,9 +5,9 @@
 ***
 ### 目錄
 [first Day](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#first-day "第一天")
-[second Day]()
+[second Day](https://github.com/charlie960906/python-self-study/tree/main?tab=readme-ov-file#second-day "第二天")
 ***
-### First Day
+## First Day
 **安裝環境**
 第一天安裝環境我選擇VScode[安裝教學](https://sites.google.com/view/hyjdevelop-charlie960906/%E7%A8%8B%E5%BC%8F%E6%95%99%E5%AD%B8/c/vscode/vscode%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D)當作我的編譯器，因為我可以同步更新到Github上，使用上我也比較習慣。
 - [hello_world](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/hello_world.py):*進行py的第一支程式，輸出Hello World*
@@ -23,7 +23,7 @@
 - [calculate_circle](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/variable/topic/calculate_circle.py):*圓的半徑計算計算週長和面積*
 - [year_judgment](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/variable/topic/year_judgment.py):*輸入年份判斷是不是閏年*
 
-### Second Day
+## Second Day
 
 ### 分支結構
 >就是if else
