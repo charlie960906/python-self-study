@@ -64,6 +64,6 @@ a
 > 經典題目練習
 #### 題目練習:
 - [find_the number_of_daffodils]():*尋找水仙花數*
-- [reverse_of_positive_integer](:*正整數反轉*)
+- [reverse_of_positive_integer]():*正整數反轉*
 - 
 - 
