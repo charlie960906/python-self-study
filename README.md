@@ -4,12 +4,13 @@
 >*在這過程中的python程式放在上方資料夾中
 ***
 ### 目錄
-[第一天](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#first-day "第一天")
+[first Day](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#first-day "第一天")
+[second Day]()
 ***
 ### First Day
 **安裝環境**
-第一天安裝環境我選擇VScode當作我的編譯器，因為在我可以同步更新到Github上，使用上我也比較習慣。
-- [hello_world](https://github.com/charlie960906/python-self-study/blob/main/hello_world.py):*進行py的第一支程式，輸出Hello World*
+第一天安裝環境我選擇VScode[安裝教學](https://sites.google.com/view/hyjdevelop-charlie960906/%E7%A8%8B%E5%BC%8F%E6%95%99%E5%AD%B8/c/vscode/vscode%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D)當作我的編譯器，因為我可以同步更新到Github上，使用上我也比較習慣。
+- [hello_world](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/hello_world.py):*進行py的第一支程式，輸出Hello World*
 ### 變數
 #### 變數練習:
 - [variable1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/variable/practise/variable1.py):*變數保存數據進行加減乘除*
@@ -21,6 +22,9 @@
 - [temperature_conversion](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/variable/topic/temperature_conversion.py):*華氏溫度轉攝氏溫度轉換*
 - [calculate_circle](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/variable/topic/calculate_circle.py):*圓的半徑計算計算週長和面積*
 - [year_judgment](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/variable/topic/year_judgment.py):*輸入年份判斷是不是閏年*
+
+### Second Day
+
 ### 分支結構
 >就是if else
 #### 分支結構練習
@@ -41,7 +45,17 @@
 - [for_in3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in3.py):*從1算到100的和*
 - [for_in4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in4.py):*求1到100的偶數和*
 - [for_in5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in5.py):*求1到100的偶數和搭配ifelse*
+- [for_in6](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in6.py):*99乘法表*
 #### while循環:
-> 不知道需要執行的次數
+> 有不確定需要執行的次數
 #### while循環練習:
-#### 題目練習
+- [while1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while1.py):*(數ㄕㄨˇ)數(ㄕㄨˋ)*
+- [while2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while2.py):*continue練習*
+- [while3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while3.py):*break練習*
+- [while4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while4.py):*使用else*
+- [while5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while5.py):*猜數字遊戲*
+
+#### 題目練習:
+- [common_factors_common_multiples]():*找最小公因數和最大公倍數*
+- [prime_number_judgment]():*質數判斷*
+-
