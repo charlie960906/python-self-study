@@ -66,4 +66,4 @@ a
 - [find_the number_of_daffodils]():*尋找水仙花數*
 - [reverse_of_positive_integer]():*正整數反轉*
 - [100coins_and_100chickens]():*百錢百雞問題*
-- []():*CRAPS賭博遊戲*
+- [CRAPS_gambling_games]():*CRAPS賭博遊戲*
