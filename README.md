@@ -28,43 +28,43 @@
 ### 分支結構
 >就是if else
 #### 分支結構練習
-- [ifelse1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/branch_structure/practice/ifelse1.py):*用戶身份驗證*
+- [ifelse1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/branch_structure/practice/ifelse1.py):*用戶身份驗證*
 >下方分段函數題目:f(x)=3x-5(x>1),f(x)=x+2(-1<=x<=1),f(x)=5x+3(x<-1) 
-- [ifelse2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/branch_structure/practice/ifelse2.py):*分段函數求值方法一*
-- [ifelse3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/branch_structure/practice/ifelse3.py):*分段函數求值方法二*
+- [ifelse2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/branch_structure/practice/ifelse2.py):*分段函數求值方法一*
+- [ifelse3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/branch_structure/practice/ifelse3.py):*分段函數求值方法二*
 #### 題目練習:
-- [grade_conversion](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/branch_structure/topic/grade_conversion.py):*成績等第換算*
-- [triangle](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/branch_structure/topic/triangle.py):*判斷輸入的邊長能否構成成三角形，如果能則計算出三角形的周長和面積*
-- [unit_conversion](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/branch_structure/topic/unit_conversion.py):*英制單位英吋與公制單位公分互換*
+- [grade_conversion](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/branch_structure/topic/grade_conversion.py):*成績等第換算*
+- [triangle](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/branch_structure/topic/triangle.py):*判斷輸入的邊長能否構成成三角形，如果能則計算出三角形的周長和面積*
+- [unit_conversion](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/branch_structure/topic/unit_conversion.py):*英制單位英吋與公制單位公分互換*
 ### 循環結構
 #### for-in循環:
 > 知道需要執行的次數
 #### for-in循環練習:
-- [for_in1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in1.py):*輸出100個Hello World*
-- [for_in2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in2.py):*輸出100個Hello World並在前面加上數字表示輸出到第幾個*
-- [for_in3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in3.py):*從1算到100的和*
-- [for_in4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in4.py):*求1到100的偶數和*
-- [for_in5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in5.py):*求1到100的偶數和搭配ifelse*
-- [for_in6](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/for_in6.py):*99乘法表*
+- [for_in1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/for_in1.py):*輸出100個Hello World*
+- [for_in2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/for_in2.py):*輸出100個Hello World並在前面加上數字表示輸出到第幾個*
+- [for_in3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/for_in3.py):*從1算到100的和*
+- [for_in4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/for_in4.py):*求1到100的偶數和*
+- [for_in5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/for_in5.py):*求1到100的偶數和搭配ifelse*
+- [for_in6](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/for_in6.py):*99乘法表*
 #### while循環:
 > 有不確定需要執行的次數
 #### while循環練習:
-- [while1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while1.py):*(數ㄕㄨˇ)數(ㄕㄨˋ)*
-- [while2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while2.py):*continue練習*
-- [while3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while3.py):*break練習*
-- [while4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while4.py):*使用else*
-- [while5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/practice/while5.py):*猜數字遊戲*
+- [while1](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/while1.py):*(數ㄕㄨˇ)數(ㄕㄨˋ)*
+- [while2](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/while2.py):*continue練習*
+- [while3](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/while3.py):*break練習*
+- [while4](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/while4.py):*使用else*
+- [while5](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/practice/while5.py):*猜數字遊戲*
 a
 #### 題目練習:
-- [common_factors_common_multiples](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/topic/common_factors_common_multiples.py):*找最小公因數和最大公倍數*
-- [prime_number_judgment](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/topic/prime_number_judgment.py):*質數判斷*
-- [print_triangle](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/Loop%20structure/topic/print_triangle.py):*打印三角形*
+- [common_factors_common_multiples](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/topic/common_factors_common_multiples.py):*找最小公因數和最大公倍數*
+- [prime_number_judgment](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/topic/prime_number_judgment.py):*質數判斷*
+- [print_triangle](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/Loop%20structure/topic/print_triangle.py):*打印三角形*
 
 ### 建構程式邏輯
 > 經典題目練習
 #### 題目練習:
 
-- [find_the number_of_daffodils](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/construct_program_logic/topic/find_the%20number_of_daffodils.py):*尋找水仙花數*
-- [reverse_of_positive_integer](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/construct_program_logic/topic/reverse_of_positive_integer.py):*正整數反轉*
-- [100coins_and_100chickens](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/construct_program_logic/topic/100coins_and_100chickens.py):*百錢百雞問題*
-- [CRAPS_gambling_games](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day1/construct_program_logic/topic/CRAPS_gambling_games.py):*CRAPS賭博遊戲*
+- [find_the number_of_daffodils](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/find_the%20number_of_daffodils.py):*尋找水仙花數*
+- [reverse_of_positive_integer](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/reverse_of_positive_integer.py):*正整數反轉*
+- [100coins_and_100chickens](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/100coins_and_100chickens.py):*百錢百雞問題*
+- [CRAPS_gambling_games](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/CRAPS_gambling_games.py):*CRAPS賭博遊戲*
