@@ -68,3 +68,4 @@ a
 - [reverse_of_positive_integer](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/reverse_of_positive_integer.py):*正整數反轉*
 - [100coins_and_100chickens](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/100coins_and_100chickens.py):*百錢百雞問題*
 - [CRAPS_gambling_games](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/CRAPS_gambling_games.py):*CRAPS賭博遊戲*
+happy new year 2024
