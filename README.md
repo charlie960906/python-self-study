@@ -63,9 +63,9 @@ a
 ### 建構程式邏輯
 > 經典題目練習
 #### 題目練習:
-
 - [find_the number_of_daffodils](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/find_the%20number_of_daffodils.py):*尋找水仙花數*
 - [reverse_of_positive_integer](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/reverse_of_positive_integer.py):*正整數反轉*
 - [100coins_and_100chickens](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/100coins_and_100chickens.py):*百錢百雞問題*
 - [CRAPS_gambling_games](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/CRAPS_gambling_games.py):*CRAPS賭博遊戲*
-happy new year 2024
+- [fibonacci_sequence]():*費氏數列 兔子問題*
+- [perfect_number]():*完美數*
