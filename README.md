@@ -69,3 +69,6 @@ a
 - [CRAPS_gambling_games](https://github.com/charlie960906/python-self-study/blob/main/Day1-15/Day2/construct_program_logic/topic/CRAPS_gambling_games.py):*CRAPS賭博遊戲*
 - [fibonacci_sequence]():*費氏數列 兔子問題*
 - [perfect_number]():*完美數*
+### 常用資料結構:
+> 原本放在第四天:
+### 函數
