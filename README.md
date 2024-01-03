@@ -5,7 +5,7 @@
 ***
 ### 目錄
 [First Week](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#first-week "第一周")
-[Second Week](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#first-week "第二周")
+[Second Week](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#second-week "第二周")
 ***
 ## First Week
 **安裝環境**
