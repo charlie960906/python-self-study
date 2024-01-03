@@ -54,7 +54,7 @@
 - [while3]():*break練習*
 - [while4]():*使用else*
 - [while5]():*猜數字遊戲*
-a
+
 #### 題目練習:
 - [common_factors_common_multiples]():*找最小公因數和最大公倍數*
 - [prime_number_judgment]():*質數判斷*
