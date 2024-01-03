@@ -70,6 +70,4 @@
 #### 練習:
 - [fibonacci_sequence](https://github.com/charlie960906/python-self-study/blob/main/week2/construct_program_logic/practice/fibonacci_sequence.py):*費氏數列 兔子問題*
 - [perfect_number](https://github.com/charlie960906/python-self-study/blob/main/week2/construct_program_logic/practice/perfect_number.py):*完美數*
-### 常用資料結構:
-> 原本放在第4周
-### 函數
+### 函數:
