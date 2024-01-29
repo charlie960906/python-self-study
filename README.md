@@ -71,10 +71,8 @@
 - [fibonacci_sequence](https://github.com/charlie960906/python-self-study/blob/main/week2/construct_program_logic/practice/fibonacci_sequence.py):*費氏數列 兔子問題*
 - [perfect_number](https://github.com/charlie960906/python-self-study/blob/main/week2/construct_program_logic/practice/perfect_number.py):*完美數*
 ### 函數:
-#### def練習:
+#### 函數和模型:
 - [function1(havedef)]():*輸入M和N計算(M,N)有用函數*
 - [function1(nodef)]():*輸入M和N計算(M,N)沒用函數*
 - [function2]():*搖骰子 函數的參數*
 - [function3]():*三數相加 函數的參數*
-寫到Python 核心 50 門課​​程
-/第13課：函數和模組
