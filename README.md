@@ -76,3 +76,4 @@
 - [function1(nodef)]():*輸入M和N計算(M,N)沒用函數*
 - [function2]():*搖骰子 函數的參數*
 - [function3]():*三數相加 函數的參數*
+- [function4]()*輸入可變參數*
