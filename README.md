@@ -72,8 +72,8 @@
 - [perfect_number](https://github.com/charlie960906/python-self-study/blob/main/week2/construct_program_logic/practice/perfect_number.py):*完美數*
 ### 函數:
 #### 函數和模型:
-- [function1(havedef)]():*輸入M和N計算(M,N)有用函數*
-- [function1(nodef)]():*輸入M和N計算(M,N)沒用函數*
-- [function2]():*搖骰子 函數的參數*
-- [function3]():*三數相加 函數的參數*
-- [function4]()*輸入可變參數*
+- [function1(havedef)](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function1(havedef).py):*輸入M和N計算(M,N)有用函數*
+- [function1(nodef)](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function1(nodef).py):*輸入M和N計算(M,N)沒用函數*
+- [function2](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function2.py):*搖骰子 函數的參數*
+- [function3](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function3.py):*三數相加 函數的參數*
+- [function4](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function4.py)*輸入可變參數*
