@@ -79,4 +79,10 @@
 - [function3](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function3.py):*三數相加 函數的參數*
 - [function4](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function4.py)*輸入可變參數*
 ##### 使用模組管理函數:
-- []()*使用自己的函數模組*
+- [module1]()*自定義函數模組*
+- [module2]()*自定義函數模組*
+- [test1]()*第一種呼叫方式*
+- [test2]()*第二種呼叫方式*
+- [test3]()*第三種呼叫方式*
+- [test4]()*第四種呼叫方式*
+- [test5]()*第五種呼叫方式*
