@@ -91,3 +91,5 @@
 - [generate_code](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/generate_code.py)*生成驗證碼小程式*
 - [get_suffix](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/get_suffix.py)*設計一個函數返回給定文件後綴*
 - [gcd_and_lcm](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/gcd_and_lcm.py)*求最大公因數和最小公倍數*
+- [statistics]()*數據統計函數*
+##### 函數進階使用
