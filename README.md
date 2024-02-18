@@ -79,15 +79,15 @@
 - [function3](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function3.py):*三數相加 函數的參數*
 - [function4](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/function4.py)*輸入可變參數*
 ##### 使用模組管理函數:
-- [module1]()*自定義函數模組*
-- [module2]()*自定義函數模組*
-- [test1]()*第一種呼叫方式*
-- [test2]()*第二種呼叫方式*
-- [test3]()*第三種呼叫方式*
-- [test4]()*第四種呼叫方式*
-- [test5]()*第五種呼叫方式*
+- [module1](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/module1.py)*自定義函數模組*
+- [module2](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/module2.py)*自定義函數模組*
+- [test1](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test1.py)*第一種呼叫方式*
+- [test2](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test2.py)*第二種呼叫方式*
+- [test3](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test3.py)*第三種呼叫方式*
+- [test4](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test4.py)*第四種呼叫方式*
+- [test5](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test5.py)*第五種呼叫方式*
 ##### 函數的應用
 ###### 經典案例
-- [generate_code]()*生成驗證碼小程式*
-- [get_suffix]()*設計一個函數返回給定文件後綴*
-- [gcd_and_lcm]()*求最大公因數和最小公倍數*
+- [generate_code](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/generate_code.py)*生成驗證碼小程式*
+- [get_suffix](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/get_suffix.py)*設計一個函數返回給定文件後綴*
+- [gcd_and_lcm](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/gcd_and_lcm.py)*求最大公因數和最小公倍數*
