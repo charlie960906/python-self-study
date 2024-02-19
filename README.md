@@ -93,5 +93,5 @@
 - [gcd_and_lcm](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/gcd_and_lcm.py)*求最大公因數和最小公倍數*
 - [statistics]()*數據統計函數*
 ##### 函數進階使用
-- [check_triangle]()*基本函式做驗證三角形*
-- [check_triangle_keyword]()*進階函式做驗證三角形*
+- [check_triangle](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle.py)*基本函式做驗證三角形*
+- [check_triangle_keyword](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle_keyword.py)*進階函式做驗證三角形*
