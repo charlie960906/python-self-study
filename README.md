@@ -86,12 +86,15 @@
 - [test3](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test3.py)*第三種呼叫方式*
 - [test4](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test4.py)*第四種呼叫方式*
 - [test5](https://github.com/charlie960906/python-self-study/blob/main/week2/function/function%20and%20model/model/test5.py)*第五種呼叫方式*
-##### 函數的應用
-###### 經典案例
+#### 函數的應用:
+##### 經典案例:
 - [generate_code](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/generate_code.py)*生成驗證碼小程式*
 - [get_suffix](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/get_suffix.py)*設計一個函數返回給定文件後綴*
 - [gcd_and_lcm](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/gcd_and_lcm.py)*求最大公因數和最小公倍數*
-- [statistics]()*數據統計函數*
-##### 函數進階使用
+- [statistics](https://github.com/charlie960906/python-self-study/blob/main/week2/function/application/statistics.py)*數據統計函數*
+#### 函數進階使用:
 - [check_triangle](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle.py)*基本函式做驗證三角形*
-- [check_triangle_keyword](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle_keyword.py)*進階函式做驗證三角形*
+- [check_triangle_keyword](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle_keyword.py)*進階函式做驗證三角形*\
+
+### 字串和常用資料結構
+#### 使用字串
