@@ -121,3 +121,4 @@
 - [set1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/set/set1.py)*交集、並集、差集等運算*
 #### 使用字典:
 - [dictionary1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/dictionary/dictionary1.py)*字典基本操作*
+#### 
