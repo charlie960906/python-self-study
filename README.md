@@ -96,5 +96,14 @@
 - [check_triangle](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle.py)*基本函式做驗證三角形*
 - [check_triangle_keyword](https://github.com/charlie960906/python-self-study/blob/main/week2/function/Advanced/check_triangle_keyword.py)*進階函式做驗證三角形*\
 
-### 字串和常用資料結構
-#### 使用字串
+### 字串和常用資料結構:
+#### 使用字串:
+- [string1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string1.py)
+- [string2](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string2.py)
+- [string3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string3.py)
+- [string4](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string4.py)
+- [string5](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string5.py)
+- [string6](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string6.py)
+- [string7](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string7.py)
+- [string8](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string8.py)
+- [string9](https://github.com/charlie960906/python-self-study/blob/main/week3/string/using_string/string9.py)
