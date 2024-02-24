@@ -122,3 +122,5 @@
 #### 使用字典:
 - [dictionary1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/dictionary/dictionary1.py)*字典基本操作*
 #### 練習:
+- [practice1]()**
+- [practice2]()**
