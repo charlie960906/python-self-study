@@ -122,5 +122,7 @@
 #### 使用字典:
 - [dictionary1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/dictionary/dictionary1.py)*字典基本操作*
 #### 練習:
-- [practice1]()**
-- [practice2]()**
+- [practice1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice1.py)*顯示跑馬燈文字*
+- [practice2](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice2.py)*驗證碼*
+- [practice3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice3.py)*返回文件後綴名*
+- [practice4](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice4.py)
