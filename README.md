@@ -125,4 +125,5 @@
 - [practice1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice1.py)*顯示跑馬燈文字*
 - [practice2](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice2.py)*驗證碼*
 - [practice3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice3.py)*返回文件後綴名*
-- [practice4](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice4.py)
+- [practice4](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice4.py)*輸出列表中第一大跟第二大的元素*
+- [practice5](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice5.py)
