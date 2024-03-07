@@ -130,6 +130,6 @@
 - [practice6]()*
 輸出巴斯卡三角形*
 #### 綜合案例:
-- [Comprehensive_case1]()*雙色球選號*
-- [Comprehensive_case2]()*約瑟夫環*
-- [Comprehensive_case3]()*井字棋遊戲*
+- [Comprehensive_case1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case1.py)*雙色球選號*
+- [Comprehensive_case2](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case2.py)*約瑟夫環*
+- [Comprehensive_case3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case3.py)*井字棋遊戲*
