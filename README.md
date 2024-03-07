@@ -127,3 +127,9 @@
 - [practice3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice3.py)*返回文件後綴名*
 - [practice4](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice4.py)*輸出列表中第一大跟第二大的元素*
 - [practice5](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice5.py)*找出指定年月日是一年的第幾天*
+- [practice6]()*
+輸出巴斯卡三角形*
+#### 綜合案例:
+- [Comprehensive_case1]()*雙色球選號*
+- [Comprehensive_case2]()*約瑟夫環*
+- [Comprehensive_case3]()*井字棋遊戲*
