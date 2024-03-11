@@ -135,6 +135,6 @@
 - [Comprehensive_case3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case3.py)*井字棋遊戲*
 ### 物件導向程式設計基礎:
 ####　類和物件:
-- [class1]()*class基本用法練習*
-- [class2]()*class基本用法練習*
-- [class3]()*class基本用法練習*
+- [class1](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class1.py)*class基本用法練習*
+- [class2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class2.py)*class基本用法練習*
+- [class3](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class3.py)*class基本用法練習*
