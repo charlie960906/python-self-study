@@ -121,7 +121,7 @@
 - [set1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/set/set1.py)*交集、並集、差集等運算*
 #### 使用字典:
 - [dictionary1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/dictionary/dictionary1.py)*字典基本操作*
-#### 練習:
+##### 練習:
 - [practice1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice1.py)*顯示跑馬燈文字*
 - [practice2](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice2.py)*驗證碼*
 - [practice3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice3.py)*返回文件後綴名*
@@ -129,12 +129,13 @@
 - [practice5](https://github.com/charlie960906/python-self-study/blob/main/week3/string/practice/practice5.py)*找出指定年月日是一年的第幾天*
 - [practice6]()*
 輸出巴斯卡三角形*
-#### 綜合案例:
+##### 綜合案例:
 - [Comprehensive_case1](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case1.py)*雙色球選號*
 - [Comprehensive_case2](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case2.py)*約瑟夫環*
 - [Comprehensive_case3](https://github.com/charlie960906/python-self-study/blob/main/week3/string/Comprehensive_case/Comprehensive_case3.py)*井字棋遊戲*
 ### 物件導向程式設計基礎:
 ####　類和物件:
+##### 練習
 - [class1](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class1.py)*class基本用法練習*
 - [class2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class2.py)*class基本用法練習*
 - [class3](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class3.py)*class基本用法練習*
