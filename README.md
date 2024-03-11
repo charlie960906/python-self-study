@@ -139,3 +139,4 @@
 - [class1](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class1.py)*class基本用法練習*
 - [class2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class2.py)*class基本用法練習*
 - [class3](https://github.com/charlie960906/python-self-study/blob/main/week3/object/class/class3.py)*class基本用法練習*
+##### 練習題
