@@ -145,3 +145,5 @@
 ### 物件導向程式設計進階:
 - [property]() *@property裝飾器練習*
 - [_slots_]() *__slots__的練習* 
+- [Status_and_class_methods]()*靜態方法和類方法*
+- [class_class]()*類中定義類的方法*
