@@ -140,6 +140,6 @@
 - [class2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/practice/class2.py)*class基本用法練習*
 - [class3](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/practice/class3.py)*class基本用法練習*
 ##### 練習題
-- [prclass1]() *時鐘*
-- [prclass2]() *xy方位移動*
+- [prclass1](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/project/prclass1.py) *時鐘*
+- [prclass2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/project/prclass2.py) *xy方位移動*
 ### 物件導向程式設計進階
