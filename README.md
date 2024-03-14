@@ -143,4 +143,5 @@
 - [prclass1](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/project/prclass1.py) *時鐘*
 - [prclass2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/project/prclass2.py) *xy方位移動*
 ### 物件導向程式設計進階:
-- []() *@property裝飾器練習*
+- [property]() *@property裝飾器練習*
+- ['__slots__']() *__slots__的練習* 
