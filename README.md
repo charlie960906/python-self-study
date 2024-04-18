@@ -147,3 +147,4 @@
 - [_slots_]() *__slots__的練習* 
 - [Status_and_class_methods]()*靜態方法和類方法*
 - [class_class]()*類中定義類的方法*
+- [override] () **
