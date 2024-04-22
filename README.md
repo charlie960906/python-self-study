@@ -6,6 +6,7 @@
 ### 目錄
 [First Week](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#first-week "第一周")
 [Second Week](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#second-week "第二周")
+[Third Week](https://github.com/charlie960906/python-self-study?tab=readme-ov-file#third-week)
 ***
 ## First Week
 **安裝環境**
@@ -147,4 +148,7 @@
 - [_slots_]() *__slots__的練習* 
 - [Status_and_class_methods]()*靜態方法和類方法*
 - [class_class]()*類中定義類的方法*
-- [override] () **
+- [override] () *多態練習*
+#### 綜合案例
+- [Fight_little_monsters]*怪獸小遊戲*
+- []
