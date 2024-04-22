@@ -24,7 +24,7 @@ def main():
     p2 = Point()
     print(p1)
     print(p2)
-    p2.move_by(-1,2)
+    p2.move_by(1,2)
     print(p2)
     print(p1.distance_to(p2))
 

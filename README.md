@@ -150,5 +150,5 @@
 - [class_class]()*類中定義類的方法*
 - [override] () *多態練習*
 #### 綜合案例
-- [Fight_little_monsters]*怪獸小遊戲*
-- []
+- [Fight_little_monsters]()*怪獸小遊戲*
+- [poker_game]()*撲克牌發牌*
