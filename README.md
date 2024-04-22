@@ -144,11 +144,11 @@
 - [prclass1](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/project/prclass1.py) *時鐘*
 - [prclass2](https://github.com/charlie960906/python-self-study/blob/main/week3/object/basic/project/prclass2.py) *xy方位移動*
 ### 物件導向程式設計進階:
-- [property]() *@property裝飾器練習*
-- [_slots_]() *__slots__的練習* 
-- [Status_and_class_methods]()*靜態方法和類方法*
-- [class_class]()*類中定義類的方法*
-- [override] () *多態練習*
+- [property](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/property.py) *@property裝飾器練習*
+- [_slots_](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/__slots__.py) *__slots__的練習* 
+- [Status_and_class_methods](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/Status_and_class_methods.py)*靜態方法和類方法*
+- [class_class](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/class_class.py)*類中定義類的方法*
+- [override] (https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/override.py) *多態練習*
 #### 綜合案例
-- [Fight_little_monsters]()*怪獸小遊戲*
-- [poker_game]()*撲克牌發牌*
+- [Fight_little_monsters](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/Fight_little_monsters.py)*怪獸小遊戲*
+- [poker_game](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/poker_game.py)*撲克牌發牌*
