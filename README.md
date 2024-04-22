@@ -148,7 +148,7 @@
 - [_slots_](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/__slots__.py) *__slots__的練習* 
 - [Status_and_class_methods](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/Status_and_class_methods.py)*靜態方法和類方法*
 - [class_class](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/class_class.py)*類中定義類的方法*
-- [override] (https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/override.py) *多態練習*
+- [override](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/base/override.py)*多態練習*
 #### 綜合案例
 - [Fight_little_monsters](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/Fight_little_monsters.py)*怪獸小遊戲*
 - [poker_game](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/poker_game.py)*撲克牌發牌*
