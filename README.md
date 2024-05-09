@@ -152,4 +152,4 @@
 #### 綜合案例
 - [Fight_little_monsters](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/Fight_little_monsters.py)*怪獸小遊戲*
 - [poker_game](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/poker_game.py)*撲克牌發牌*
--[money]()*工資結算系統*
+- [money]()*工資結算系統*
