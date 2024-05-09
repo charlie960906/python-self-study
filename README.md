@@ -161,7 +161,7 @@
 - [buildnumber](https://github.com/charlie960906/python-self-study/blob/main/week4/Files%20and%20Exceptions/build/buildnumber.py)*寫入檔案*
 - [buildbinary](https://github.com/charlie960906/python-self-study/blob/main/week4/Files%20and%20Exceptions/build/buildbinary.py)*讀寫二進制文件*
 #### 異常處理:
-- [builderro]()*報錯處理*
+- [builderro](https://github.com/charlie960906/python-self-study/blob/main/week4/Files%20and%20Exceptions/openerro.py)*報錯處理*
 #### json處理:
 - [usejson](https://github.com/charlie960906/python-self-study/blob/main/week4/Files%20and%20Exceptions/json/usejson.py)*轉成json檔*
 #### useapi:
