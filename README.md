@@ -153,3 +153,16 @@
 - [Fight_little_monsters](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/Fight_little_monsters.py)*怪獸小遊戲*
 - [poker_game](https://github.com/charlie960906/python-self-study/blob/main/week3/object/advancement/Comprehensive_case/poker_game.py)*撲克牌發牌*
 - [money]()*工資結算系統*
+## Forth week
+### 文件和異常:
+#### 讀取:
+- [open]()*開檔案*
+#### 寫入:
+- [buildnumber]()*寫入檔案*
+- [buildbinary]()*讀寫二進制文件*
+#### 異常處理:
+- [builderro]()*報錯處理*
+#### json處理:
+- [usejson]()*轉成json檔*
+#### useapi:
+- [useapi]()*調用api*
